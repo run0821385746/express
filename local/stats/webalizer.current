@@ -1,0 +1,1280 @@
+# Webalizer V2.01-10 Incremental Data - 05/20/2020 14:15:05
+2020 5 20 14 15 5
+2627 1481 124 188 154 16 48272690 1624 181 0
+26 3 189 15 20
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+484 214 6993497 61 270 43
+1031 562 18683802 75 619 46
+881 568 14722125 47 604 50
+137 84 4276050 32 80 17
+47 26 1810158 21 25 11
+47 27 1787058 26 26 14
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+36 13 1216463 21
+67 34 2984979 29
+122 54 3157297 57
+213 100 4417316 124
+101 48 1795316 60
+15 6 380347 12
+255 133 4378838 142
+241 127 2397469 145
+156 96 2974951 89
+85 53 2250007 52
+187 115 2326077 112
+144 112 1323933 117
+121 95 2170033 91
+61 29 1509338 28
+109 67 2174339 76
+192 109 1204240 136
+94 61 1445547 72
+218 105 5175429 127
+11 7 921885 6
+114 76 736127 79
+0 0 0 0
+33 20 1423043 15
+49 20 1906009 32
+3 1 3707 2
+3
+0
+0
+1481
+0
+0
+0
+0
+0
+4
+0
+1
+175
+0
+39
+0
+0
+0
+2
+0
+0
+806
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+113
+0
+0
+0
+0
+0
+# -urls- 
+/getReceiveDetail/20
+0 1 0 7271 0 0
+/getReceiveDetail/21
+0 1 0 7239 0 0
+/getReceiveDetail/22
+0 2 0 14678 0 0
+/getReceiveDetail/23
+0 3 0 22023 1 1
+/getReceiveDetail/24
+0 7 0 51705 0 1
+/connectBooking/31
+0 3 0 24719 0 0
+/getReceiveDetail/30
+0 2 0 14800 0 1
+/printDeleveryReport/1
+0 1 0 335454 0 0
+/printDeleveryReport/3
+0 1 0 335471 0 1
+/
+0 45 0 245513 55 16
+/addClsParcelTransaction
+0 5 0 31692 0 2
+/get_dropcenter_list_for_add_employee
+0 1 0 7428 0 0
+/countingPrice/25
+0 1 0 8702 0 0
+/countingPrice/26
+0 1 0 8688 0 0
+/countingPrice/27
+0 2 0 17509 0 0
+/countingPrice/28
+0 2 0 17537 0 0
+/countingPrice/29
+0 1 0 8698 0 0
+/countingPrice/30
+0 1 0 8690 0 0
+/countingPrice/31
+0 1 0 8688 0 0
+/countingPrice/32
+0 1 0 8702 0 0
+/countingPrice/33
+0 2 0 17417 0 0
+/countingPrice/34
+0 2 0 17620 0 0
+/countingPrice/35
+0 1 0 8782 0 0
+/countingPrice/36
+0 1 0 8790 0 0
+/countingPrice/37
+0 1 0 8789 0 0
+/countingPrice/38
+0 1 0 8790 0 0
+/countingPrice/39
+0 1 0 8789 0 0
+/api/getTrackingDetail/1
+0 2 0 1712 4 3
+/countingPrice/40
+0 1 0 8790 0 0
+/countingPrice/41
+0 24 0 184796 0 0
+/previewTrackingBarcode/29
+0 1 0 336003 0 0
+/bookingList/1
+0 85 0 645922 4 6
+/parcelprice/1
+0 1 0 6883 0 0
+/previewTrackingBarcode/32
+0 2 0 672001 1 0
+/previewTrackingBarcode/33
+0 6 0 1408340 1 2
+/getTransferByCourier/1
+0 14 0 108321 0 0
+/getTransferByCourier/3
+0 67 0 533408 3 2
+/customer_search
+0 16 0 123490 0 0
+/previewTrackingBarcode/42
+0 1 0 1537 0 0
+/product_price_get_list/1
+0 3 0 21505 0 0
+/api/getRequestServiceList
+0 45 0 33264 1 1
+/getTransferByDropCenter/2
+0 1 0 1040 0 1
+/getTransferByDropCenter/3
+0 2 0 2304 0 2
+/product_price/1
+0 1 0 6922 0 1
+/api/getSendTrackingDetail/33
+0 3 0 2496 1 2
+/api/getSendTrackingDetail/34
+0 10 0 8350 0 1
+/employee_list/1
+0 3 0 21386 0 0
+/getTrackingDetail/19
+0 1 0 8344 0 0
+/getTrackingDetail/20
+0 1 0 8344 0 0
+/getTrackingDetail/21
+0 1 0 8342 0 0
+/getTrackingDetail/22
+0 1 0 8383 0 0
+/getTrackingDetail/23
+0 1 0 8385 0 0
+/getTrackingDetail/24
+0 2 0 16677 0 0
+/getTrackingDetail/25
+0 1 0 8340 0 0
+/getTrackingDetail/26
+0 1 0 8342 0 0
+/getTrackingDetail/27
+0 1 0 8341 0 0
+/getTrackingDetail/28
+0 2 0 16863 0 0
+/getTrackingDetail/29
+0 2 0 16861 0 0
+/getTrackingDetail/30
+0 3 0 25289 0 0
+/getTrackingDetail/31
+0 2 0 17202 0 0
+/getParcelWrongList
+0 2 0 13550 0 0
+/previewDailyReport
+0 3 0 1003050 0 0
+/storage/image_receiver/PSXTS0HBnU2rr7G3PyAczdio6II1cAC4KWSG3Jk9.png
+0 1 0 19686 0 0
+/dropcenter_get_list/1
+0 14 0 101634 0 1
+/getCurierList
+0 52 0 353447 3 2
+/architectui-html-free/architectui-html-free/main.css
+0 23 0 1478693 0 0
+/receiver_search_receive
+0 21 0 162412 0 0
+/dropcenter/1
+0 4 0 28373 0 0
+/dropcenter/2
+0 1 0 7121 0 0
+/dropcenter/3
+0 1 0 7121 0 0
+/api/createHistoryContact/129
+0 3 0 1332 0 0
+/delete_subtracking/51
+0 1 0 9105 0 0
+/delete_subtracking/52
+0 1 0 9234 0 0
+/delete_subtracking/54
+0 1 0 9233 0 0
+/delete_subtracking/55
+0 1 0 9233 0 0
+/delete_subtracking/56
+0 1 0 9233 0 0
+/delete_subtracking/58
+0 1 0 9321 0 0
+/delete_subtracking/59
+0 1 0 9291 0 0
+/storage/image_signatur/5xjAYk6Oqaal7xFZtvZSQVfEIc073jNCfs3yw2BY.jpeg
+0 1 0 45929 0 0
+/delete_subtracking/60
+0 1 0 9295 0 0
+/delete_subtracking/61
+0 1 0 9321 0 0
+/delete_subtracking/62
+0 1 0 9295 0 0
+/delete_subtracking/63
+0 1 0 9295 0 0
+/delete_subtracking/64
+0 1 0 9266 0 0
+/delete_subtracking/69
+0 1 0 9382 0 0
+/getRequestServiceList/1
+0 13 0 92331 1 1
+/delete_subtracking/70
+0 1 0 9406 0 0
+/architectui-html-free/architectui-html-free/assets/scripts/main.js
+0 23 0 6768394 0 0
+/getDropCenterList
+0 18 0 128553 0 0
+/permission_get_list/1
+0 12 0 87961 0 0
+/robots.txt
+0 3 0 1014 0 0
+/api/employee-data
+0 18 0 9576 0 1
+/api/createReceiveParcelDetail
+0 6 0 2664 0 2
+/favicon.ico
+0 45 0 11080 0 0
+/js/app.js
+0 30 0 10133370 0 0
+/api/logout
+0 2 0 896 0 0
+/login
+0 83 0 183048 26 27
+/api/getCurrierTrackingStatusDoingList
+0 228 0 129293 23 19
+/export
+0 2 0 14426 0 0
+/createParcelWrongWhenTransferToCourier
+0 1 0 1110 0 0
+/parcel_type_create
+0 1 0 6760 0 0
+/input
+0 16 0 126269 0 1
+/storage/image_receiver/8Q8J60HwGC868w99myUJCWwTVFKyKLQCqrV08El1.jpeg
+0 2 0 46358 0 0
+/updateReceivingTracking/2
+0 1 0 8556 0 0
+/updateReceivingTracking/3
+0 2 0 17102 0 0
+/updateReceivingTracking/4
+0 2 0 17239 0 0
+/updateReceivingTracking/5
+0 1 0 8805 0 0
+/updateReceivingTracking/6
+0 5 0 43182 1 1
+/updateReceivingTracking/7
+0 2 0 17099 0 0
+/updateReceivingTracking/8
+0 6 0 51816 0 0
+/css/app.css
+0 30 0 758310 0 0
+/parcel_price_get_list/1
+0 9 0 63593 0 1
+/drop_center_create
+0 3 0 21027 0 0
+/booking
+0 14 0 113413 0 0
+/tracking_list/1
+0 48 0 352139 7 2
+/parceltype/3
+0 2 0 13597 0 0
+/permission/1
+0 2 0 14446 0 0
+/permission/2
+0 2 0 14360 0 0
+/permission/3
+0 1 0 7282 0 0
+/js/script.js
+0 23 0 14536 0 0
+/addTrackingToCourier/3
+0 1 0 978 0 0
+/parcel_care
+0 13 0 92950 2 2
+/architectui-html-free/architectui-html-free/assets/fonts/Pe-icon-7-stroke.woff
+0 23 0 676292 0 0
+/api/createHistoryContact/12
+0 1 0 444 0 0
+/create_receive_jobs
+0 4 0 31542 0 0
+/getTrackingDetailFormTrackingId/25
+0 1 0 8561 0 0
+/previewSlipReceiveParcel/20
+0 2 0 670116 0 1
+/previewSlipReceiveParcel/21
+0 2 0 670094 0 1
+/previewSlipReceiveParcel/22
+0 2 0 670108 0 0
+/previewSlipReceiveParcel/23
+0 1 0 335045 0 0
+/previewSlipReceiveParcel/24
+0 3 0 1006009 0 1
+/previewSlipReceiveParcel/25
+0 1 0 335042 0 0
+/previewSlipReceiveParcel/26
+0 1 0 335053 0 0
+/previewSlipReceiveParcel/27
+0 1 0 335031 0 0
+/previewSlipReceiveParcel/28
+0 1 0 335354 0 0
+/previewSlipReceiveParcel/29
+0 1 0 335315 0 0
+/getTrackingDetailFormTrackingId/33
+0 1 0 8700 0 0
+/api/createHistoryContact/29
+0 8 0 3498 0 0
+/getTrackingDetailFormTrackingId/34
+0 1 0 8829 0 0
+/getTrackingDetailFormTrackingId/35
+0 2 0 16862 0 0
+/get_dropcenter_list_for_edit_employee/1
+0 1 0 7649 0 0
+/get_dropcenter_list_for_edit_employee/2
+0 1 0 7631 0 0
+/get_dropcenter_list_for_edit_employee/3
+0 3 0 22851 0 0
+/parceltype_get_list/1
+0 5 0 36390 0 0
+/previewSlipReceiveParcel/30
+0 1 0 335379 0 0
+/api/createHistoryContact/30
+0 1 0 444 0 0
+/getclsList
+0 17 0 126793 1 0
+/api/createHistoryContact/33
+0 3 0 1332 1 1
+/getTrackingDetailFormTrackingId/41
+0 4 0 36073 0 0
+/getTrackingDetailFormTrackingId/42
+0 3 0 26442 0 0
+/architectui-html-free/architectui-html-free/assets/fonts/fa-solid-900.woff2
+0 23 0 1830087 0 0
+/getBookingListToExportExcel
+0 1 0 2178 0 0
+/api/getCurrierTrackingStatusDoneList
+0 86 0 40518 5 1
+/architectui-html-free/architectui-html-free/assets/images/logo-inverse.png
+0 21 0 25498 0 0
+/addNewSenderCustomer
+0 2 0 15809 0 0
+/api/getTrackingDetail/30
+0 1 0 762 0 0
+/api/getTrackingDetail/33
+0 1 0 705 1 0
+/api/getTrackingDetail/34
+0 10 0 8074 1 4
+/api/getTrackingDetail/35
+0 4 0 2920 0 1
+/api/getTrackingDetail/36
+0 2 0 1455 0 0
+/api/getTrackingDetail/37
+0 4 0 2868 0 1
+/api/getTrackingDetail/38
+0 1 0 733 0 0
+/api/getTrackingDetail/39
+0 2 0 1470 0 0
+/dashboard
+0 15 0 115126 0 1
+/api/getTrackingDetail/40
+0 1 0 733 0 1
+/getParcelListFromOtherDC/1
+0 13 0 87752 0 0
+/updateTrackingDetailList/25
+0 1 0 8171 0 0
+/updateTrackingDetailList/26
+0 1 0 8152 0 0
+/updateTrackingDetailList/27
+0 1 0 8191 0 0
+/updateTrackingDetailList/28
+0 1 0 8196 0 0
+/updateTrackingDetailList/29
+0 1 0 8147 0 0
+/updateTrackingDetailList/30
+0 1 0 8185 0 0
+/updateTrackingDetailList/31
+0 1 0 8158 0 0
+/updateTrackingDetailList/32
+0 1 0 8162 0 0
+/updateTrackingDetailList/33
+0 1 0 8159 0 0
+/updateTrackingDetailList/34
+0 2 0 16532 0 0
+/updateTrackingDetailList/35
+0 1 0 8301 0 0
+/updateTrackingDetailList/36
+0 1 0 8265 0 0
+/updateTrackingDetailList/37
+0 1 0 8300 0 0
+/updateTrackingDetailList/38
+0 1 0 8238 0 0
+/updateTrackingDetailList/39
+0 1 0 8270 0 0
+/updateTrackingDetailList/40
+0 1 0 8333 0 0
+/updateTrackingDetailList/41
+0 2 0 16482 0 0
+/register
+0 1 0 2174 1 0
+/api/login
+0 10 0 11676 6 1
+/connectBooking/20
+0 2 0 16681 0 0
+/connectBooking/23
+0 1 0 8196 0 0
+/connectBooking/27
+0 1 0 8159 0 0
+# End Of Table - urls
+# -sites- (monthly)
+172.68.234.29
+0 71 56 53918 7 1589718037
+/api/employee-data
+172.69.135.107
+0 2 0 1778 0 0
+-
+172.68.234.41
+0 1 0 889 0 0
+-
+173.245.54.126
+0 1 1 2230 1 1589557616
+/login
+172.68.234.47
+0 5 5 395386 0 0
+-
+172.68.234.53
+0 1 1 23179 0 0
+-
+172.68.234.65
+0 1 0 889 0 0
+-
+172.68.146.99
+0 5 0 4445 0 0
+-
+162.158.165.13
+0 1 1 79569 0 0
+-
+172.68.234.71
+0 122 106 5182389 10 1589812093
+/api/getRequestServiceList
+172.68.234.77
+0 4 0 3556 0 0
+-
+172.69.135.23
+0 2 0 1778 0 0
+-
+172.69.135.29
+0 1 1 29404 0 0
+-
+172.68.6.9
+0 1 1 25277 0 0
+-
+162.158.165.25
+0 1 1 294278 0 0
+-
+172.68.234.83
+0 10 10 2650660 0 0
+-
+172.68.234.89
+0 3 1 81347 0 0
+-
+162.158.118.67
+0 1 0 518 1 1589508371
+-
+162.158.165.33
+0 1 0 518 1 1589503141
+-
+172.68.234.95
+0 20 13 766793 3 1589971283
+/parcel_price_get_list/1
+172.69.63.164
+0 1 0 1280 1 1589611353
+/
+172.69.135.179
+0 1 1 25277 0 0
+-
+162.158.78.193
+0 1 0 889 0 0
+-
+172.69.135.65
+0 1 0 889 0 0
+-
+172.68.146.105
+0 2 0 1778 0 0
+-
+162.158.165.61
+0 3 0 1554 1 1589503441
+-
+162.158.165.63
+0 1 0 889 0 0
+-
+172.69.135.83
+0 1 0 889 0 0
+-
+162.158.165.93
+0 2 0 1778 0 0
+-
+162.158.179.15
+0 1 0 518 1 1589512149
+-
+162.158.167.105
+0 7 7 50080 1 1589601100
+/getReceiveDetail/23
+172.69.134.196
+0 4 0 2072 1 1589503246
+-
+172.68.146.147
+0 1 0 1320 1 1589601056
+/api/getTrackingDetail/1
+162.158.178.100
+0 2 1 3514 1 1589881335
+/login
+162.158.179.29
+0 1 1 25277 0 0
+-
+172.68.146.153
+0 1 1 64291 0 0
+-
+172.68.234.5
+0 30 0 26670 0 0
+-
+162.158.178.118
+0 1 1 337779 0 0
+-
+162.158.118.215
+0 1 0 889 1 1589546810
+-
+162.158.167.71
+0 1 1 337779 0 0
+-
+162.158.178.136
+0 1 1 25277 0 0
+-
+162.158.74.124
+0 17 17 37961 15 1589981322
+/login
+162.158.167.5
+0 16 14 96487 1 1589616898
+/get_dropcenter_list_for_edit_employee/2
+162.158.118.239
+0 1 0 889 1 1589525514
+-
+162.158.74.146
+0 19 0 22796 16 1589981321
+/
+162.158.166.146
+0 1 0 889 0 0
+-
+162.158.165.5
+0 3 0 1554 1 1589502540
+-
+162.158.165.111
+0 1 0 889 0 0
+-
+162.158.166.162
+0 2 0 1778 0 0
+-
+162.158.166.164
+0 1 1 632 0 0
+-
+173.245.54.200
+0 1 1 2231 1 1589611357
+/login
+172.69.135.215
+0 2 0 1407 0 0
+-
+172.68.255.75
+0 1 1 337779 0 0
+-
+173.245.54.230
+0 1 0 889 0 0
+-
+172.69.63.224
+0 1 0 1273 1 1589557613
+/
+172.69.134.220
+0 1 1 2158 0 0
+-
+162.158.119.14
+0 1 1 2280 1 1589696335
+/login
+172.69.134.244
+0 1 0 889 0 0
+-
+172.68.234.107
+0 9 1 53041 0 0
+-
+108.162.246.252
+0 1 0 1273 1 1589737988
+/
+172.68.234.119
+0 12 9 718788 0 0
+-
+172.68.234.121
+0 35 21 1360747 4 1589772570
+/getReceiveDetail/30
+172.68.234.127
+0 1 1 632 0 0
+-
+172.68.234.129
+0 119 89 1608593 16 1589932807
+/
+172.68.234.131
+0 10 10 3140 0 0
+-
+172.68.234.133
+0 9 9 5688 0 0
+-
+172.68.234.135
+0 10 1 5853 0 0
+-
+172.68.234.137
+0 4 0 3556 0 0
+-
+172.68.234.139
+0 4 0 3556 0 0
+-
+108.162.245.13
+0 1 1 2229 1 1589737995
+/login
+172.68.234.143
+0 1 0 889 0 0
+-
+172.68.234.147
+0 10 0 8890 0 0
+-
+172.68.234.149
+0 19 18 807001 0 0
+-
+172.68.234.151
+0 31 22 1491253 4 1589932808
+/login
+172.68.234.153
+0 7 7 15106 0 0
+-
+162.158.119.102
+0 1 0 889 1 1589606166
+-
+172.69.63.62
+0 1 1 338 0 0
+-
+172.69.63.80
+0 1 1 2174 1 1589984102
+/register
+162.158.119.124
+0 2 1 1581 2 1589979474
+/login
+162.158.74.220
+0 12 4 2792 0 0
+-
+172.68.6.53
+0 1 1 337779 0 0
+-
+162.158.166.218
+0 1 0 889 0 0
+-
+172.68.6.65
+0 1 1 314 0 0
+-
+162.158.119.144
+0 1 0 889 1 1589544752
+-
+162.158.118.105
+0 1 0 889 1 1589518834
+-
+162.158.166.220
+0 1 1 314 0 0
+-
+162.158.178.96
+0 16 2 10361 1 1589515094
+/login
+172.68.242.101
+0 19 2 16377 0 0
+-
+172.68.242.107
+0 68 3 72132 0 0
+-
+162.158.119.184
+0 2 0 1778 2 1589547198
+-
+172.68.242.113
+0 39 1 56961 0 0
+-
+162.158.119.196
+0 1 1 2279 1 1589979476
+/login
+172.68.242.11
+0 13 0 11557 0 0
+-
+172.68.242.125
+0 127 92 4255121 13 1589981679
+/login
+172.68.242.17
+0 10 10 294040 0 0
+-
+162.158.165.237
+0 1 0 889 0 0
+-
+172.68.242.23
+0 18 10 3384902 0 0
+-
+172.68.242.137
+0 3 0 2667 0 0
+-
+172.68.242.29
+0 10 8 280347 2 1589538201
+-
+162.158.78.41
+0 2 2 676 0 0
+-
+172.68.253.132
+0 1 0 518 0 0
+-
+172.68.242.143
+0 4 2 160916 0 0
+-
+172.68.242.35
+0 7 0 6223 0 0
+-
+172.68.242.149
+0 32 15 458250 2 1589596373
+/parcel_price_get_list/1
+172.68.6.107
+0 21 12 33419 1 1589515566
+/login
+162.158.118.189
+0 1 1 1063 1 1589696334
+/login
+108.162.216.133
+0 1 1 1151 1 1589639325
+/api/login
+172.68.242.155
+0 30 4 202250 0 0
+-
+172.68.242.47
+0 84 10 72106 0 0
+-
+172.68.242.161
+0 263 202 3840521 16 1589724099
+/previewDailyReport
+172.68.242.53
+0 120 89 3727033 12 1589723311
+/bookingList/1
+172.68.242.167
+0 10 8 55921 1 1589537221
+/parcel_care
+172.68.242.59
+0 6 1 5890 0 0
+-
+172.68.242.173
+0 8 0 7112 0 0
+-
+172.68.242.65
+0 51 10 679359 0 0
+-
+172.68.242.71
+0 81 2 658787 0 0
+-
+172.68.242.185
+0 4 0 3556 0 0
+-
+172.68.242.77
+0 14 11 280714 0 0
+-
+172.68.242.83
+0 185 0 164438 0 0
+-
+172.68.242.89
+0 14 2 686226 0 0
+-
+172.68.242.95
+0 425 331 9969672 16 1589763592
+/getTrackingDetailFormTrackingId/42
+172.68.234.11
+0 4 2 95473 0 0
+-
+108.162.229.31
+0 1 1 314 0 0
+-
+172.68.234.17
+0 237 204 1310337 12 1589812124
+/api/getCurrierTrackingStatusDoingList
+# End Of Table - sites (monthly)
+# -sites- (daily)
+172.68.234.71
+0 2 2 675558 0 0
+-
+172.68.234.83
+0 1 1 294278 0 0
+-
+172.68.234.95
+0 11 7 219883 2 1589971283
+/parcel_price_get_list/1
+172.68.234.5
+0 2 0 1778 0 0
+-
+162.158.74.124
+0 4 4 8933 3 1589981322
+/login
+162.158.74.146
+0 4 0 5120 3 1589981321
+/
+173.245.54.230
+0 1 0 889 0 0
+-
+172.68.234.107
+0 1 0 889 0 0
+-
+172.68.234.119
+0 1 1 79569 0 0
+-
+172.68.234.129
+0 1 0 1273 1 1589932807
+/
+172.68.234.131
+0 1 1 314 0 0
+-
+172.68.234.133
+0 1 1 632 0 0
+-
+172.68.234.135
+0 1 0 889 0 0
+-
+172.68.234.137
+0 1 0 889 0 0
+-
+172.68.234.149
+0 2 2 89568 0 0
+-
+172.68.234.151
+0 1 1 2228 1 1589932808
+/login
+172.68.234.153
+0 1 1 2158 0 0
+-
+172.69.63.80
+0 1 1 2174 1 1589984102
+/register
+162.158.119.124
+0 1 1 1063 1 1589979474
+/login
+162.158.74.220
+0 2 0 384 0 0
+-
+162.158.119.196
+0 1 1 2279 1 1589979476
+/login
+172.68.242.125
+0 2 1 3512 1 1589981679
+/login
+172.68.242.23
+0 1 1 337779 0 0
+-
+162.158.78.41
+0 1 1 338 0 0
+-
+172.68.242.77
+0 1 1 25277 0 0
+-
+172.68.234.17
+0 1 1 29404 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.service-express.co.th/storage/image_receiver/8Q8J60HwGC868w99myUJCWwTVFKyKLQCqrV08El1.jpeg
+0 1
+https://service-express.co.th/getReceiveDetail/20
+0 2
+https://service-express.co.th/getReceiveDetail/21
+0 1
+https://service-express.co.th/getReceiveDetail/24
+0 4
+- (Direct Request)
+0 832
+https://service-express.co.th/getReceiveDetail/30
+0 2
+https://www.service-express.co.th/booking
+0 28
+https://www.service-express.co.th/bookingList/1
+0 166
+https://www.service-express.co.th/delete_subtracking/51
+0 5
+https://www.service-express.co.th/delete_subtracking/52
+0 5
+https://www.service-express.co.th/delete_subtracking/54
+0 2
+https://www.service-express.co.th/delete_subtracking/55
+0 1
+https://www.service-express.co.th/delete_subtracking/56
+0 3
+https://www.service-express.co.th/delete_subtracking/58
+0 2
+https://www.service-express.co.th/delete_subtracking/59
+0 3
+https://www.service-express.co.th/delete_subtracking/60
+0 2
+https://www.service-express.co.th/delete_subtracking/61
+0 3
+https://www.service-express.co.th/delete_subtracking/62
+0 2
+https://www.service-express.co.th/delete_subtracking/63
+0 2
+https://www.service-express.co.th/delete_subtracking/64
+0 7
+https://service-express.co.th/dashboard
+0 21
+https://www.service-express.co.th/delete_subtracking/69
+0 1
+https://www.service-express.co.th/getTrackingDetail/19
+0 2
+https://www.service-express.co.th/delete_subtracking/70
+0 4
+https://www.service-express.co.th/getTrackingDetail/20
+0 2
+https://www.service-express.co.th/getTrackingDetail/21
+0 2
+https://www.service-express.co.th/getTrackingDetail/22
+0 2
+https://www.service-express.co.th/getTrackingDetail/23
+0 2
+https://www.service-express.co.th/getTrackingDetail/24
+0 4
+https://www.service-express.co.th/getTrackingDetail/25
+0 2
+https://www.service-express.co.th/getTrackingDetail/26
+0 2
+https://www.service-express.co.th/getTrackingDetail/27
+0 2
+https://www.service-express.co.th/getTrackingDetail/28
+0 4
+https://www.service-express.co.th/getTrackingDetail/29
+0 4
+https://www.service-express.co.th/getTrackingDetail/30
+0 6
+https://www.service-express.co.th/getTrackingDetail/31
+0 4
+https://www.service-express.co.th/permission_get_list/1
+0 22
+https://www.service-express.co.th/get_dropcenter_list_for_edit_employee/1
+0 2
+https://www.service-express.co.th/get_dropcenter_list_for_edit_employee/3
+0 6
+https://www.service-express.co.th/updateTrackingDetailList/25
+0 3
+https://www.service-express.co.th/updateTrackingDetailList/26
+0 3
+https://www.service-express.co.th/updateTrackingDetailList/27
+0 3
+https://www.service-express.co.th/updateTrackingDetailList/28
+0 2
+https://www.service-express.co.th/updateTrackingDetailList/29
+0 2
+https://www.service-express.co.th/previewTrackingBarcode/33
+0 1
+https://www.service-express.co.th/receiver_search_receive
+0 45
+https://www.service-express.co.th/updateTrackingDetailList/30
+0 3
+https://www.service-express.co.th/updateTrackingDetailList/31
+0 3
+https://www.service-express.co.th/updateTrackingDetailList/32
+0 3
+https://www.service-express.co.th/updateTrackingDetailList/33
+0 2
+https://www.service-express.co.th/updateTrackingDetailList/34
+0 4
+https://www.service-express.co.th/architectui-html-free/architectui-html-free/main.css
+0 30
+https://www.service-express.co.th/updateTrackingDetailList/35
+0 3
+https://www.service-express.co.th/updateTrackingDetailList/36
+0 2
+https://www.service-express.co.th/updateTrackingDetailList/37
+0 3
+https://www.service-express.co.th/updateTrackingDetailList/38
+0 2
+https://www.service-express.co.th/updateTrackingDetailList/39
+0 2
+https://www.service-express.co.th/updateTrackingDetailList/40
+0 3
+https://www.service-express.co.th/updateTrackingDetailList/41
+0 4
+https://service-express.co.th/bookingList/1
+0 26
+https://service-express.co.th/parcelprice/1
+0 1
+https://www.service-express.co.th/getParcelListFromOtherDC/1
+0 14
+https://www.service-express.co.th/getCurierList
+0 99
+https://www.service-express.co.th/create_receive_jobs
+0 8
+https://www.service-express.co.th/customer_search
+0 32
+https://service-express.co.th/product_price/1
+0 1
+https://service-express.co.th/dropcenter_get_list/1
+0 2
+https://www.service-express.co.th/getRequestServiceList/1
+0 18
+https://service-express.co.th/employee_list/1
+0 2
+https://service-express.co.th/admin
+0 4
+https://www.service-express.co.th/connectBooking/20
+0 5
+https://www.service-express.co.th/connectBooking/23
+0 3
+https://www.service-express.co.th/connectBooking/27
+0 3
+https://www.service-express.co.th/connectBooking/31
+0 6
+https://www.service-express.co.th/countingPrice/25
+0 2
+https://www.service-express.co.th/countingPrice/26
+0 2
+https://www.service-express.co.th/countingPrice/27
+0 4
+https://www.service-express.co.th/getTrackingDetailFormTrackingId/25
+0 2
+https://www.service-express.co.th/countingPrice/28
+0 4
+https://www.service-express.co.th/countingPrice/29
+0 2
+https://www.service-express.co.th/parceltype/3
+0 4
+https://www.service-express.co.th/employee_list/1
+0 5
+https://www.service-express.co.th/getParcelWrongList
+0 4
+https://www.service-express.co.th/permission/1
+0 4
+https://www.service-express.co.th/permission/2
+0 4
+https://www.service-express.co.th/permission/3
+0 2
+https://www.service-express.co.th/countingPrice/30
+0 2
+https://www.service-express.co.th/countingPrice/31
+0 2
+https://www.service-express.co.th/countingPrice/32
+0 2
+https://www.service-express.co.th/countingPrice/33
+0 4
+https://www.service-express.co.th/countingPrice/34
+0 4
+https://www.service-express.co.th/getTrackingDetailFormTrackingId/33
+0 2
+https://www.service-express.co.th/countingPrice/35
+0 2
+https://www.service-express.co.th/getTrackingDetailFormTrackingId/34
+0 2
+https://www.service-express.co.th/countingPrice/36
+0 2
+https://www.service-express.co.th/getTrackingDetailFormTrackingId/35
+0 4
+https://www.service-express.co.th/countingPrice/37
+0 2
+https://www.service-express.co.th/countingPrice/38
+0 2
+https://www.service-express.co.th/countingPrice/39
+0 2
+https://service-express.co.th/getRequestServiceList/1
+0 9
+https://www.service-express.co.th/countingPrice/40
+0 2
+https://www.service-express.co.th/countingPrice/41
+0 49
+https://www.service-express.co.th/getTrackingDetailFormTrackingId/41
+0 9
+https://www.service-express.co.th/getTrackingDetailFormTrackingId/42
+0 6
+https://service-express.co.th/getclsList
+0 2
+https://www.service-express.co.th/get_dropcenter_list_for_add_employee
+0 1
+https://service-express.co.th/getCurierList
+0 15
+https://service-express.co.th/
+0 81
+https://www.service-express.co.th/parceltype_get_list/1
+0 8
+https://www.service-express.co.th/dashboard
+0 49
+https://service-express.co.th/get_dropcenter_list_for_edit_employee/2
+0 1
+https://service-express.co.th/getDropCenterList
+0 29
+https://www.service-express.co.th/parcel_care
+0 20
+https://www.service-express.co.th/getReceiveDetail/22
+0 4
+https://www.service-express.co.th/getReceiveDetail/23
+0 6
+https://www.service-express.co.th/getReceiveDetail/24
+0 9
+https://www.service-express.co.th/parcel_price_get_list/1
+0 4
+https://service-express.co.th/architectui-html-free/architectui-html-free/main.css
+0 34
+android-app://com.google.android.googlequicksearchbox/
+0 35
+https://service-express.co.th/parcel_price_get_list/1
+0 11
+https://www.service-express.co.th/getclsList
+0 35
+https://www.service-express.co.th/product_price_get_list/1
+0 2
+https://www.service-express.co.th/parcel_type_create
+0 2
+https://www.service-express.co.th/updateReceivingTracking/2
+0 1
+https://www.service-express.co.th/updateReceivingTracking/3
+0 4
+https://www.service-express.co.th/updateReceivingTracking/4
+0 4
+https://www.service-express.co.th/updateReceivingTracking/5
+0 2
+https://www.service-express.co.th/updateReceivingTracking/6
+0 10
+https://www.service-express.co.th/updateReceivingTracking/7
+0 4
+https://www.service-express.co.th/updateReceivingTracking/8
+0 12
+https://www.service-express.co.th/drop_center_create
+0 5
+http://www.service-express.co.th/storage/image_receiver/PSXTS0HBnU2rr7G3PyAczdio6II1cAC4KWSG3Jk9.png
+0 1
+https://service-express.co.th/getParcelListFromOtherDC/1
+0 12
+https://www.service-express.co.th/getDropCenterList
+0 19
+https://www.service-express.co.th/addNewSenderCustomer
+0 4
+https://service-express.co.th/tracking_list/1
+0 14
+https://www.service-express.co.th/login
+0 59
+https://www.service-express.co.th/
+0 68
+https://builtwith.com
+0 2
+https://service-express.co.th/login
+0 56
+https://www.service-express.co.th/tracking_list/1
+0 85
+https://www.service-express.co.th/input
+0 32
+https://www.service-express.co.th/getTransferByCourier/1
+0 26
+https://www.service-express.co.th/getTransferByCourier/3
+0 120
+https://service-express.co.th/parcel_care
+0 18
+https://service-express.co.th/getTransferByCourier/1
+0 6
+https://service-express.co.th/getTransferByCourier/3
+0 2
+https://www.service-express.co.th/addClsParcelTransaction
+0 8
+https://service-express.co.th/product_price_get_list/1
+0 3
+https://www.service-express.co.th/dropcenter/1
+0 9
+https://www.service-express.co.th/dropcenter/2
+0 2
+https://www.service-express.co.th/dropcenter/3
+0 2
+https://service-express.co.th/addClsParcelTransaction
+0 2
+https://www.service-express.co.th/dropcenter_get_list/1
+0 27
+# End Of Table - referrers
+# -agents- 
+okhttp/3.14.4
+0 448
+MobileSafari/604.1 CFNetwork/1121.2.2 Darwin/19.3.0
+0 9
+Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 
+0 170
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) Appl
+0 68
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/5
+0 10
+facebookexternalhit/1.1;line-poker/1.0
+0 13
+PostmanRuntime/7.24.1
+0 78
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/5
+0 1274
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+0 323
+Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-N975F) AppleWebKit
+0 7
+Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-A515F) AppleWebKit
+0 5
+Dalvik/2.1.0 (Linux; U; Android 10; SM-A515F Build/QP1A.19071
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/5
+0 20
+Mozilla/5.0 (Linux; Android 10; SM-N975F) AppleWebKit/537.36 
+0 142
+Mozilla/5.0 (compatible; SemrushBot/6~bl; +http://www.semrush
+0 10
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, li
+0 48
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
